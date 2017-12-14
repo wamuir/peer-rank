@@ -1,0 +1,10 @@
+Package: peerRank
+Title: R implementation of PeerRank method proposed by Walsh (2014) 
+Version: 0.0.0.9000
+Authors@R: person("William", "Muir", email = "wamuir@gmail.com", role = c("aut", "cre"))
+Description: This package provides R implementations of Walsh's (2014) generalized PeerRank method and variants for peer assessment.
+Depends: R (>= 3.0.0)
+License: CC0. This work is in the public domain in the United States.
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
