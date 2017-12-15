@@ -1,0 +1,1 @@
+Copyright and related rights in the work are waived through the [CC0 1.0 Universal public domain dedication](https://creativecommons.org/publicdomain/zero/1.0/).  This work is in the public domain in the United States.
